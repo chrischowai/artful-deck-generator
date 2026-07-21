@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artful Deck Generator"
+  short_description: "Create visually balanced web-native slide decks"
+  default_prompt: "Use $artful-deck-generator to turn my source material into an artful, visually balanced web-native presentation."
